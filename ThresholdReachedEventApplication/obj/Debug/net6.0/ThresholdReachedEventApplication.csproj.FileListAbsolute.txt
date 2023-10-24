@@ -1,0 +1,15 @@
+D:\Metropolia.NET\ThresholdReachedEventApplication\bin\Debug\net6.0\ThresholdReachedEventApplication.exe
+D:\Metropolia.NET\ThresholdReachedEventApplication\bin\Debug\net6.0\ThresholdReachedEventApplication.deps.json
+D:\Metropolia.NET\ThresholdReachedEventApplication\bin\Debug\net6.0\ThresholdReachedEventApplication.runtimeconfig.json
+D:\Metropolia.NET\ThresholdReachedEventApplication\bin\Debug\net6.0\ThresholdReachedEventApplication.dll
+D:\Metropolia.NET\ThresholdReachedEventApplication\bin\Debug\net6.0\ThresholdReachedEventApplication.pdb
+D:\Metropolia.NET\ThresholdReachedEventApplication\obj\Debug\net6.0\ThresholdReachedEventApplication.csproj.AssemblyReference.cache
+D:\Metropolia.NET\ThresholdReachedEventApplication\obj\Debug\net6.0\ThresholdReachedEventApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Metropolia.NET\ThresholdReachedEventApplication\obj\Debug\net6.0\ThresholdReachedEventApplication.AssemblyInfoInputs.cache
+D:\Metropolia.NET\ThresholdReachedEventApplication\obj\Debug\net6.0\ThresholdReachedEventApplication.AssemblyInfo.cs
+D:\Metropolia.NET\ThresholdReachedEventApplication\obj\Debug\net6.0\ThresholdReachedEventApplication.csproj.CoreCompileInputs.cache
+D:\Metropolia.NET\ThresholdReachedEventApplication\obj\Debug\net6.0\ThresholdReachedEventApplication.dll
+D:\Metropolia.NET\ThresholdReachedEventApplication\obj\Debug\net6.0\refint\ThresholdReachedEventApplication.dll
+D:\Metropolia.NET\ThresholdReachedEventApplication\obj\Debug\net6.0\ThresholdReachedEventApplication.pdb
+D:\Metropolia.NET\ThresholdReachedEventApplication\obj\Debug\net6.0\ThresholdReachedEventApplication.genruntimeconfig.cache
+D:\Metropolia.NET\ThresholdReachedEventApplication\obj\Debug\net6.0\ref\ThresholdReachedEventApplication.dll
