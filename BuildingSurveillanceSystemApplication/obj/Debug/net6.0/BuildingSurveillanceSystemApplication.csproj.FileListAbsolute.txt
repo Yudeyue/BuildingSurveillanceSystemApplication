@@ -1,0 +1,15 @@
+D:\Metropolia.NET\BuildingSurveillanceSystemApplication\obj\Debug\net6.0\BuildingSurveillanceSystemApplication.csproj.AssemblyReference.cache
+D:\Metropolia.NET\BuildingSurveillanceSystemApplication\obj\Debug\net6.0\BuildingSurveillanceSystemApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Metropolia.NET\BuildingSurveillanceSystemApplication\obj\Debug\net6.0\BuildingSurveillanceSystemApplication.AssemblyInfoInputs.cache
+D:\Metropolia.NET\BuildingSurveillanceSystemApplication\obj\Debug\net6.0\BuildingSurveillanceSystemApplication.AssemblyInfo.cs
+D:\Metropolia.NET\BuildingSurveillanceSystemApplication\obj\Debug\net6.0\BuildingSurveillanceSystemApplication.csproj.CoreCompileInputs.cache
+D:\Metropolia.NET\BuildingSurveillanceSystemApplication\bin\Debug\net6.0\BuildingSurveillanceSystemApplication.exe
+D:\Metropolia.NET\BuildingSurveillanceSystemApplication\bin\Debug\net6.0\BuildingSurveillanceSystemApplication.deps.json
+D:\Metropolia.NET\BuildingSurveillanceSystemApplication\bin\Debug\net6.0\BuildingSurveillanceSystemApplication.runtimeconfig.json
+D:\Metropolia.NET\BuildingSurveillanceSystemApplication\bin\Debug\net6.0\BuildingSurveillanceSystemApplication.dll
+D:\Metropolia.NET\BuildingSurveillanceSystemApplication\bin\Debug\net6.0\BuildingSurveillanceSystemApplication.pdb
+D:\Metropolia.NET\BuildingSurveillanceSystemApplication\obj\Debug\net6.0\BuildingSurveillanceSystemApplication.dll
+D:\Metropolia.NET\BuildingSurveillanceSystemApplication\obj\Debug\net6.0\refint\BuildingSurveillanceSystemApplication.dll
+D:\Metropolia.NET\BuildingSurveillanceSystemApplication\obj\Debug\net6.0\BuildingSurveillanceSystemApplication.pdb
+D:\Metropolia.NET\BuildingSurveillanceSystemApplication\obj\Debug\net6.0\BuildingSurveillanceSystemApplication.genruntimeconfig.cache
+D:\Metropolia.NET\BuildingSurveillanceSystemApplication\obj\Debug\net6.0\ref\BuildingSurveillanceSystemApplication.dll
